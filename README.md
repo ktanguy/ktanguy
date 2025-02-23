@@ -1,4 +1,4 @@
-🧑 About Me:
+🧑 
 I am a Software Engineer that is Passionate about solving real-world problems with innovative solutions.
 
 ## 🌐 Socials:
@@ -20,11 +20,9 @@ I am a Software Engineer that is Passionate about solving real-world problems wi
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ktanguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ktanguy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 **ktanguy/ktanguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
