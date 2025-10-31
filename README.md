@@ -1,4 +1,5 @@
-🧑 
+
+
 I am a Software Engineer that is Passionate about solving real-world problems with innovative solutions.
 
 ## 🌐 Socials:
